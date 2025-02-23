@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../Fonts/Roboto.ttf') format('truetype'); 
+  }
+
+@font-face {
+  font-family: 'Besley';
+  src: url('../Fonts/Besley.ttf') format('truetype'); 
+}  
