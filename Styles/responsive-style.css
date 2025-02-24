@@ -1,4 +1,5 @@
 @media (max-width:435px) {
+
     header{
 
         #hero{
@@ -30,6 +31,8 @@
     }    
 
     #ourPrograms{
+        overflow-x: hidden !important; 
+
         & .bg-image{
            display: none;
         }
