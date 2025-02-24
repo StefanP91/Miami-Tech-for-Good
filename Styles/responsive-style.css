@@ -119,7 +119,7 @@
     #stayConnected{
     
         & .left-side{
-    
+            border: 17px solid #FEE354;
             & h3{
                 font-size: 28px;
             }
