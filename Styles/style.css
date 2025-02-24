@@ -61,7 +61,7 @@ header{
         }
     
         & .right-side{
-            background: url('../images/hero-bg.svg'), #094B3C;
+            background: url('../images/hero-bg.webp'), #094B3C;
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
@@ -354,7 +354,7 @@ header{
 
 #joinUs{
     padding: 5% 0;
-    background-image: url('../images/join-us-bg.svg');
+    background-image: url('../images/join-us-bg.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
